@@ -1,7 +1,7 @@
 
 <script>
 	var repo = window.repo ? window.repo : {};
-	repo.serviceUrl = "http://172.17.0.5:8080/";
+	repo.serviceUrl = "http://springbootapplication-spring-boot-repo.192.168.99.100.nip.io/";
 	
 	repo.objectDefinition = {};
 	
