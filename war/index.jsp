@@ -1,7 +1,7 @@
 
 <script>
 	var repo = window.repo ? window.repo : {};
-	repo.serviceUrl = "http://springbootapplication/";
+	repo.serviceUrl = "http://springbootapplication:8080/";
 	
 	repo.objectDefinition = {};
 	
